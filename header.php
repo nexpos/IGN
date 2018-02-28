@@ -32,6 +32,14 @@
   <?php // Header ?>
   <header>
 
+    <section class="container">
+        <div class="row">
+          <div class="col-3 col-centered">
+            <h1>IGN Test Site</h1>
+          </div>
+        </div>
+    </section>
+
   </header>
 
   <?php // Main Content ?>
